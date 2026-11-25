@@ -1,0 +1,21 @@
+NIKHITHA PRIYA
+First-Year Computer Science and Engineering Student
+your.email@example.com | github.com/your-username | linkedin.com/in/your-username
+
+PROFILE
+First-year Computer Science and Engineering student at Ramachandra College of
+Engineering, building foundations in programming and web development.
+
+EDUCATION
+Computer Science and Engineering — Ramachandra College of Engineering
+First Year | Academic year: [Add your academic year]
+
+TECHNICAL SKILLS
+Programming: C, Python
+Web fundamentals: HTML, CSS
+
+PROJECTS
+Add projects here when available, including a short description and GitHub link.
+
+CERTIFICATIONS
+Add certifications here when earned.
